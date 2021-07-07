@@ -1,0 +1,6 @@
+1. UI
+2. Functionality
+3. Usability
+4. Compatibility
+5. Performance
+6. Security
