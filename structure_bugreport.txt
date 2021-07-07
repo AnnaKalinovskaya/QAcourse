@@ -1,0 +1,3 @@
+Device:	
+OS Version:
+№	Summary	     Description      Steps to reproduce	  Severity	Priority       Symptom	    Attachment
