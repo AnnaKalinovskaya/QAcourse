@@ -1,4 +1,4 @@
-Fields: ID, Summary, Result
+Fields: ID, Summary, Result.
 
 1. UI
 2. Functionality
