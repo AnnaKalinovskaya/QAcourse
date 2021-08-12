@@ -1,0 +1,6 @@
+Install an app:         adb install Todolist.apk
+Find:                   adb shell 'pm list packages -f'|grep Todolist
+Save logs in a file:    adb logcat >> D:\log.txt
+Send the file:          adb push D:\log.txt /sdcard/Docs
+Connect through WiFi:   adb tcpip 5555
+                        adb connect phoneIP
